@@ -1,4 +1,4 @@
-package com.boomaa.bcg
+package com.boomaa.bcg.util
 
 import java.awt.Image
 import javax.imageio.ImageIO

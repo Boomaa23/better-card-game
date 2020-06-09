@@ -1,4 +1,4 @@
-package com.boomaa.bcg
+package com.boomaa.bcg.display
 
 import javax.swing.JFrame
 

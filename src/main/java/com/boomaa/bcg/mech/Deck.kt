@@ -1,4 +1,4 @@
-package com.boomaa.bcg
+package com.boomaa.bcg.mech
 
 class Deck(vararg cards: Card) : ArrayList<Card>() {
     constructor(cards: ArrayList<Card>) : this(*cards.toTypedArray())
